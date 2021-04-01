@@ -1,5 +1,5 @@
 # JavaScript 30 - Drum Kit solution
-![Design](drumkit-design.png)
+![Design](design-drumkit.png) 
 
 This is a solution to the [Drum Kit challenge on JavaScript 30](https://javascript30.com/). JavaScript 30 is a 30-day Vanilla JS Coding Challenge. 
 
@@ -16,7 +16,7 @@ This is a solution to the [Drum Kit challenge on JavaScript 30](https://javascri
 ### Links
 
 - [Repo](https://github.com/Franciskadtt/drumkit)
-- [Live site](https://franciskadtt.github.io/Tea-Recipe-Steps/)
+- [Live site](https://franciskadtt.github.io/drumkit/)
 
 ## My process
 
